@@ -29,7 +29,7 @@
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/smalik-cybersec/)
-- 📧 [📧 smalik.cybersec@gmail.com](mailto:smalik.cybersec@gmail.com)
+- 📧 [smalik.cybersec@gmail.com](mailto:smalik.cybersec@gmail.com)
 
 
 ---
